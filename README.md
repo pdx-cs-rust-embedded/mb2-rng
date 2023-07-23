@@ -15,3 +15,6 @@ or
 
 Each run should show a different sequence of ten die rolls,
 in spite of starting from the same state.
+
+See the branch `display` in this repo for a version that
+also displays die rolls on the LED display.
